@@ -4,6 +4,7 @@ title = "Helm Docs"
 theme = "helmdocs"
 publishdir = "app"
 
+
 [params]
     title = "Helm Docs"
     author = "Ronan Flynn-Curran"
